@@ -1,4 +1,4 @@
-package inheritance
+package polymorphism
 
 open class Karyawan : Orang() {
     var nip: String = ""
